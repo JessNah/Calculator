@@ -1,0 +1,33 @@
+C:\Users\Jessica\Documents\Visual Studio 2015\Projects\FractionCalculator_1jn8\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+C:\Users\Jessica\Documents\Visual Studio 2015\Projects\FractionCalculator_1jn8\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\Users\Jessica\Documents\Visual Studio 2015\Projects\FractionCalculator_1jn8\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\Users\Jessica\Documents\Visual Studio 2015\Projects\FractionCalculator_1jn8\FractionCalculator\bin\Debug\fraction_1jn8.dll
+C:\Users\Jessica\Documents\Visual Studio 2015\Projects\FractionCalculator_1jn8\FractionCalculator\bin\Debug\fraction_1jn8.pdb
+C:\Users\Jessica\Documents\Visual Studio 2015\Projects\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Documents\Visual Studio 2015\Projects\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.Form1.resources
+C:\Users\Jessica\Documents\Visual Studio 2015\Projects\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.Properties.Resources.resources
+C:\Users\Jessica\Documents\Visual Studio 2015\Projects\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.csproj.GenerateResource.Cache
+C:\Users\Jessica\Documents\Visual Studio 2015\Projects\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.exe
+C:\Users\Jessica\Documents\Visual Studio 2015\Projects\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.pdb
+C:\Users\Jessica Nahulan\Documents\Visual Studio 2015\FractionCalculator_1jn8\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+C:\Users\Jessica Nahulan\Documents\Visual Studio 2015\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.exe
+C:\Users\Jessica Nahulan\Documents\Visual Studio 2015\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.pdb
+C:\Users\Jessica Nahulan\Documents\Visual Studio 2015\FractionCalculator_1jn8\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\Users\Jessica Nahulan\Documents\Visual Studio 2015\FractionCalculator_1jn8\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\Users\Jessica Nahulan\Documents\Visual Studio 2015\FractionCalculator_1jn8\FractionCalculator\bin\Debug\fraction_1jn8.pdb
+C:\Users\Jessica Nahulan\Documents\Visual Studio 2015\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Jessica Nahulan\Documents\Visual Studio 2015\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.Form1.resources
+C:\Users\Jessica Nahulan\Documents\Visual Studio 2015\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.Properties.Resources.resources
+C:\Users\Jessica Nahulan\Documents\Visual Studio 2015\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.csproj.GenerateResource.Cache
+C:\Users\Jessica Nahulan\Documents\GitHub\FractionCalculator\FractionCalculator_1jn8\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+C:\Users\Jessica Nahulan\Documents\GitHub\FractionCalculator\FractionCalculator_1jn8\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\Users\Jessica Nahulan\Documents\GitHub\FractionCalculator\FractionCalculator_1jn8\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\FractionCalculator\FractionCalculator_1jn8\FractionCalculator\bin\Debug\calculator.dll
+C:\Users\Jessica Nahulan\Documents\GitHub\FractionCalculator\FractionCalculator_1jn8\FractionCalculator\bin\Debug\calculator.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\FractionCalculator\FractionCalculator_1jn8\FractionCalculator\bin\Debug\fraction_1jn8.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\FractionCalculator\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Jessica Nahulan\Documents\GitHub\FractionCalculator\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.Form1.resources
+C:\Users\Jessica Nahulan\Documents\GitHub\FractionCalculator\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.Properties.Resources.resources
+C:\Users\Jessica Nahulan\Documents\GitHub\FractionCalculator\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.csproj.GenerateResource.Cache
+C:\Users\Jessica Nahulan\Documents\GitHub\FractionCalculator\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.exe
+C:\Users\Jessica Nahulan\Documents\GitHub\FractionCalculator\FractionCalculator_1jn8\FractionCalculator\obj\Debug\FractionCalculator.pdb

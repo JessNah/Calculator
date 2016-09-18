@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (fraction_1jn8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Stdafx.cpp
+  AssemblyInfo.cpp
+  calculator.cpp
+calculator.cpp(3): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+  calculator.cpp(3): note: Add directive to 'stdafx.h' or rebuild precompiled header
+calculator.cpp(4): warning C4627: '#include <string>': skipped when looking for precompiled header use
+  calculator.cpp(4): note: Add directive to 'stdafx.h' or rebuild precompiled header
+calculator.cpp(5): warning C4627: '#include <sstream>': skipped when looking for precompiled header use
+  calculator.cpp(5): note: Add directive to 'stdafx.h' or rebuild precompiled header
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  calculator.vcxproj -> C:\Users\Jessica Nahulan\Documents\GitHub\Calculator\calculator\Debug\calculator.dll

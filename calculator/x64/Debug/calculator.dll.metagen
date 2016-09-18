@@ -1,0 +1,23 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly calculator, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Struct calculator.Fraction: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+    Void .ctor(Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    numerator(): PrivateScope, Public, HideBySig
+    denominator(): PrivateScope, Public, HideBySig
+    difference(Fraction* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    op_Addition(Fraction, Fraction): PrivateScope, Public, Static, HideBySig, SpecialName
+    op_Subtraction(Fraction, Fraction): PrivateScope, Public, Static, HideBySig, SpecialName
+    op_Multiply(Fraction, Fraction): PrivateScope, Public, Static, HideBySig, SpecialName
+    op_Division(Fraction, Fraction): PrivateScope, Public, Static, HideBySig, SpecialName
